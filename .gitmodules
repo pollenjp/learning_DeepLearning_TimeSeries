@@ -1,0 +1,3 @@
+[submodule "source_code/deeplearning-tensorflow-keras"]
+	path = source_code/deeplearning-tensorflow-keras
+	url = https://github.com/yusugomori/deeplearning-tensorflow-keras.git
